@@ -4,7 +4,7 @@ description: Feature development pipeline - research, plan, track, and implement
 argument-hint: "[subcommand] [name]"
 metadata:
   author: Shpigford
-  version: "1.1"
+  version: "1.2"
 ---
 
 # build
