@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="image-github" src="https://github.com/user-attachments/assets/91a013ab-961f-475a-beed-ebc1039e5ac3" />
+
+
 This is a fork of [Shpigford's /build skill](https://github.com/Shpigford/skills/tree/main/build) but with various additions:
 1. Auto-mode override for askuserquestion
 2. Explicit verification step
